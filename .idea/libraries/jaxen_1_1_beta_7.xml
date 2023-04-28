@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="jaxen-1.1-beta-7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jaxen-1.1-beta-7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jboss-archive-browsing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdbc2_0-stdext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsf-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsf-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-lib-2.2.2-jdk13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.5-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ognl-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oro-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.7-20101029.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/quartz-all-1.6.1-RC1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqljdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sslext-1.2-0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-convention-plugin-2.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-core-2.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-embeddedjsp-plugin-2.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-jasperreports-plugin-2.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-json-plugin-2.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts2-spring-plugin-2.1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xerces-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xwork-core-2.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
